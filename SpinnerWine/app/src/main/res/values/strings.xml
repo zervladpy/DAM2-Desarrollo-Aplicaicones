@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SpinnerWine</string>
+    <string name="mainTitle">Lista de Vinos</string>
+    <string name="btnTitle">Buscar</string>
+    <string-array name="wineList">
+        <item>Blanco</item>
+        <item>Tinto</item>
+        <item>Rosado</item>
+    </string-array>
 </resources>
