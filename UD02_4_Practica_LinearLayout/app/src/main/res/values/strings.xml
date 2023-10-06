@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UD02_4_Practica_LinearLayout</string>
+    <string name="name">Juan Pérez</string>
+    <string name="call">Llamar</string>
+    <string name="number">660905050</string>
+    <string name="callingTo">Llamando a </string>
+
+</resources>

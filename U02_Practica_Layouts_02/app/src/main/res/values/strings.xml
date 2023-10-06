@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">U02_Practica_Layouts_02</string>
+    <string name="ourense">Ourense</string>
+    <string name="descriptionOurense">La ciudad de ourense tiene puentes</string>
+    <string name="santiago">Santiago</string>
+    <string name="descriptionSantiago">La ciudad de santiago tiene una catedral</string>
+
+</resources>
