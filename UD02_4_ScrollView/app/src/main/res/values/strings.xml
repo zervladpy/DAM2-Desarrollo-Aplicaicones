@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UD02_4_ScrollView</string>
+    <string name="hint">Mensaje: </string>
+    <string name="send">Enviar: </string>
+</resources>
