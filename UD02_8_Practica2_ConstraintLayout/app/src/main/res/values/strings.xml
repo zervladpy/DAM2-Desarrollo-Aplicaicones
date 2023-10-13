@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UD02_8_Practica2_ConstraintLayout</string>
+    <string name="taskListTitle">Lista de Tareas Pendientes</string>
+    <string name="addTaskPlaceholder">Añadir Tarea Pendiente</string>
+    <string name="addButtonLabel">AGREGAR</string>
+</resources>
